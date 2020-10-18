@@ -1,0 +1,235 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-10-18T23:12:38.767Z",
+        "line": 3,
+        "name": "Validate Substraction is working",
+        "description": "",
+        "id": "feature-to-test-calculator-functionality;validate-substraction-is-working",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7906000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on online calculator page",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_is_on_online_calculator_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 472000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on first number",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_first_number()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 439000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on minus sign",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_minus_sign()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 431000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on second number",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_second_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 428000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on equal Sign",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_equal_Sign()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Answer should appear in answer box",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.answer_should_appear_in_answer_box()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-18T23:12:48.510Z",
+        "line": 11,
+        "name": "Validate Substraction is working",
+        "description": "",
+        "id": "feature-to-test-calculator-functionality;validate-substraction-is-working",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7135000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User is on online calculator page",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_is_on_online_calculator_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 486000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User click on first number",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_first_number()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 449000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User click on division sign",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_division_sign()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 463000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User click on second number",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_second_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 461000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User click on equal Sign",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_equal_Sign()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Answer should appear in answer box",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.answer_should_appear_in_answer_box()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-18T23:12:57.511Z",
+        "line": 19,
+        "name": "Validate clear is working",
+        "description": "",
+        "id": "feature-to-test-calculator-functionality;validate-clear-is-working",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7561000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User is on online calculator page",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_is_on_online_calculator_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 491000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User click on first number",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_first_number()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 433000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User click on Clear button",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.user_click_on_Clear_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Answer should appear in answer box",
+            "match": {
+              "location": "com.calculator.stepdef.CalculatorStepDef.answer_should_appear_in_answer_box()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "feature to test calculator functionality",
+    "description": "",
+    "id": "feature-to-test-calculator-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Calculator.feature",
+    "tags": []
+  }
+]
